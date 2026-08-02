@@ -5,7 +5,7 @@
 - 🇰🇷 Soongsil University, School of Computer Science and Engineering (2024~)
 
 ### 📜 Certificates & Programs
-- 🇰🇷 Hana Social Venture University (Sogang Univ.), 5th — Completed
+- Hana Social Venture University (Sogang Univ.), 5th — Completed
 
 ### 🔥 Currently Learning
 - 📖 리액트, Next.js로 완성하는 프론트엔드
