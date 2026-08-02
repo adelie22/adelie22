@@ -1,4 +1,4 @@
-# Welcome to Haru's Github!
+# Welcome to Groovy's Github!
 
 ### 🍒 Profile
 - 🇰🇷 Seoul Institute of the Arts, Applied Music Program, Jazz Piano (2019)
