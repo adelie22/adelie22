@@ -8,6 +8,5 @@
 - Hana Social Venture University (Sogang Univ.), 5th — Completed
 
 ### 🔥 Currently Learning
-- 📖 리액트, Next.js로 완성하는 프론트엔드
-- 📖 Node.js + NestJS 교과서
+- JS + React, Java
 
